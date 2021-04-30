@@ -6,6 +6,7 @@ In this project we can see some club in the home page. If we want to show detail
 #Features:
 
 ➔ See some football clubs in homepage.
+
 ➔ See details about selected club.
 
 #Using Tools:
